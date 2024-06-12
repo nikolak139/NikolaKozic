@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	color:mediumaquamarine;
+	font-family: "BebasNeue Regular";
+	font-size: 16px;
+	line-height: normal;
+	width: 750px;
+	background-color:cadetblue;
+	opacity: 70%;
+	padding: 25px;
+	style="text-align:center;";
+}
+
+h2 {
+	font font-family: "BebasNeue Regular";
+	font-size: 20px;
+	font-color: cornsilk;
+	background-color: aquamarine;
+	background-blend-mode: soft-light;
+	padding: 15px;
+	width: 700px;
+}
+
+h1 {
+	font-size: 25px;
+	color:cornsilk;
+	background-color: darkcyan;
+	padding: 15px;
+	width: 700px;
+}
+
+p {
+	color:cornsilk;
+	font-family: "BebasNeue Regular";
+	font-size: 16px;
+	line-height: normal;
+	width: 700px;
+	background-color:darkcyan;
+	padding: 20px;
+}
+
+b {
+	color:antiquewhite;
+
+}
+
+a {
+	color:blanchedalmond;
+	font-size: 16px;
+	font-family: "BebasNeue Regular";
+	background-color: darkcyan;
+	
+	
+}
+
+footer {
+	color:mediumaquamarine;
+	font-family: "BebasNeue Regular";
+	font-size: 16px;
+	line-height: normal;
+	width: 750px;
+	background-color:cadetblue;
+	opacity: 70%;
+	padding: 25px;
+	style="text-align:center;";
+}
